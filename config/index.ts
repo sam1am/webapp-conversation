@@ -1,5 +1,5 @@
 import { AppInfo } from "@/types/app"
-export const APP_ID = ''
+export const APP_ID = '39241eb6-e26d-40f0-87a9-dea64ae73919'
 export const API_KEY = ''
 export const API_URL = ''
 export const APP_INFO: AppInfo = {
